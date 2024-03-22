@@ -24,7 +24,7 @@ To achieve this task, we will execute the following procedures:
 
 2. Load the Infinity Flame Sales.xlsx file into Power BI and select Transform.
 
-Begin by loading the Tailwind Traders Sales data file into Power BI.
+Begin by loading the Infinix Flame Sales data file into Power BI.
 
 ![Screenshot (205)](https://github.com/nnannaeze/Sales-Team-Quarterly-Report/assets/148848746/2cc2c354-c490-4a0d-9133-75bb54a54d5f)
 
