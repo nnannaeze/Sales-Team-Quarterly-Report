@@ -350,6 +350,7 @@ This brings an end to Stage 1
         5. drag the Salesperson[Salesperson] to the fields well y-axis
 
 2. Create a `Total sales` card visual to highlight key metrics for the executive board such as when the cursor is hovered over the `Sales by Country` visual, a Tooltip containing the Tooltip page will pop up. 
+
 ![Presentation123](https://github.com/nnannaeze/Sales-Team-Quarterly-Report/assets/148848746/88a9e44b-90dd-4a7e-96e6-1dc40ca943b7)
 
 3. Select `Sales by Country`visual and go to Format, select Tooltip from  General and perform the following under Options
